@@ -1,0 +1,9 @@
+pip
+autopep8
+Flask==3.0.3
+gunicorn==22.0.0
+requests
+beautifulsoup4
+pytz
+Werkzeug==3.0.6
+tkinter
